@@ -32,3 +32,8 @@
     margin: 3px;
     color: rgb(44, 43, 43);
 }
+
+.scholar-details p span{
+    color: rgb(44, 43, 43);
+    font-weight: 600;
+}

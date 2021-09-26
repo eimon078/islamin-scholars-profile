@@ -12,12 +12,12 @@ const Scholar = (props) => {
                 <img src={img} alt="" />
             </div>
             <div className="scholar-details">
-                <h3>{name}</h3>
-                <p>{description.slice(0, 44)}</p>
-                <p>{country}</p>
-                <p>{education}</p>
-                <p>{born}</p>
-                <p><strong>${payment}</strong></p>
+                <h3>Name: {name}</h3>
+                <p><span>Intro: </span>{description.slice(0, 44)}</p>
+                <p><span>Nationality:</span>{country}</p>
+                <p><span>Education: </span>{education}</p>
+                <p><span>Born: </span>{born}</p>
+                <p><span>Payment: </span><strong>${payment}</strong></p>
             </div>
             <div>
                 <button onClick={() => addToCartHandler(scholar)}> <FontAwesomeIcon icon={faShoppingCart} /> Add to Selected Cart</button>
