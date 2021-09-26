@@ -15,6 +15,9 @@
     padding: 10px;
     position: fixed;
     left: 80%;
+    background-color: rgba(19, 18, 18, 0.863);
+    color: white;
+    border-radius: 5px;
 }
 
 .span{
