@@ -2,7 +2,7 @@
 
 ### Click the Below link, go to live website
 
-[Visit Website](https://www.google.com)
+[https://islamicevents.netlify.app/](https://islamicevents.netlify.app/)
 
 **What?**
 
