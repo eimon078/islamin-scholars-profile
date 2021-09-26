@@ -1,0 +1,122 @@
+ [
+  {
+    "id": 1,
+    "name": "Abu Ameenah Bilal Philips",
+    "description": "Founder of Islamic online University",
+    "Country": "Canadian",
+    "born": "1946 (age 75 years)",
+    "education": "Islamic University of Madinah",
+    "payment": 5000,
+    "img": "https://iq-c430.kxcdn.com/wp-content/uploads/2019/04/Dr-bilal-Profile-pic-1.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Nouman Ali Khan",
+    "description": "Founder of Bayyinah",
+    "Country": "American",
+    "born": "\tMay 4, 1978",
+    "education": "Pakistan International School Riyadh",
+    "payment": 4000,
+    "img": "https://iq-c430.kxcdn.com/wp-content/uploads/2019/04/nouman-ali-khan.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Ismail ibn Musa Menk",
+    "description": "Head of the country's fatwa department",
+    "Country": "Zimbabwean",
+    "born": "27 June 1975",
+    "education": "Islamic University of Madinah",
+    "payment": 5500,
+    "img": "https://iq-c430.kxcdn.com/wp-content/uploads/2019/04/74b8987c9369497ea13b749ba8499290_18-1.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Khalid Yasin",
+    "description": "Speaks on evolution in a public lecture",
+    "Country": "American",
+    "born": "1946 (age 74–75)",
+    "education": "General Education",
+    "payment": 3000,
+    "img": "https://iq-c430.kxcdn.com/wp-content/uploads/2019/04/shaykh-khalid-yasin-quotes.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Yusuf Estes",
+    "description": "Converted to Islam in 1991 from Christianity",
+    "Country": "American",
+    "born": "January 1, 1944",
+    "education": "General Education",
+    "payment": 3000,
+    "img": "https://iq-c430.kxcdn.com/wp-content/uploads/2019/04/maxresdefault.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Tariq Jameel",
+    "description": "Founder of non-profit organization",
+    "Country": "Pakistani",
+    "born": "1 October 1953",
+    "education": "Islamic education from Jamia Arabia",
+    "payment": 5000,
+    "img": "https://iq-c430.kxcdn.com/wp-content/uploads/2019/05/download-1-1.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Dr. Zakir Naik",
+    "description": "Founder of Peace TV",
+    "Country": "Indian",
+    "born": "\t18 October 1965",
+    "education": "Nair Charitable Hospital, Mumbai University of Mumbai",
+    "payment": 6000,
+    "img": "https://iq-c430.kxcdn.com/wp-content/uploads/2019/05/unnamed-768x768.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Muhammad Taqi Usmani",
+    "description": "Judge of Federal Shariat Court of Pakistan",
+    "Country": "Pakistani",
+    "born": "5 October 1943",
+    "education": "University of the Punjab",
+    "payment": 6500,
+    "img": "https://iq-c430.kxcdn.com/wp-content/uploads/2019/05/OTTOMAN-768x512.jpg"
+  },
+  {
+    "id": 9,
+    "name": "Omar Sulaiman",
+    "description": "President of the Yaqeen Institute of Islamic Research",
+    "Country": "American",
+    "born": "1986 (age 34–35)",
+    "education": "International Islamic University Malaysia",
+    "payment": 3500,
+    "img": "https://iq-c430.kxcdn.com/wp-content/uploads/2019/05/omar-suleiman-1024x683-768x512.jpg"
+  },
+  {
+    "id": 10,
+    "name": "Suhaib Webb",
+    "description": "Public Speaker",
+    "Country": "American",
+    "born": "June 29, 1972",
+    "education": "Al-Azhar University",
+    "payment": 4500,
+    "img": "https://iq-c430.kxcdn.com/wp-content/uploads/2019/05/maxresdefault-2-768x432.jpg"
+  },
+  {
+    "id": 11,
+    "name": "Shabir Ally",
+    "description": "President of the Islamic Information & Dawah Centre",
+    "Country": "Canadian",
+    "born": "June 10, 1962",
+    "education": "University of Toronto (MA, PhD)",
+    "payment": 5500,
+    "img": "https://iq-c430.kxcdn.com/wp-content/uploads/2019/05/maxresdefault-3-768x432.jpg"
+  },
+  {
+    "id": 12,
+    "name": "Tariq Ramadan",
+    "description": "Swiss Muslim philosopher, and writer.",
+    "Country": "Swiss",
+    "born": "\t26 August 1962",
+    "education": "University of Geneva (PhD)",
+    "payment": 4000,
+    "img": "https://iq-c430.kxcdn.com/wp-content/uploads/2019/05/tariq-ramadan_1_0-768x434.jpg"
+  }
+]
